@@ -1,25 +1,5 @@
-# Mikrotik-UBNT Dashboard
+# Firebase Studio
 
-لوحة تحكم لإدارة شبكة تحتوي على:
-- إدارة سيرفرات Mikrotik.
-- مراقبة أبراج UBNT وMimosa.
-- عرض عدد المستخدمين المتصلين وسرعات التحميل والرفع.
-- تنبيهات لحظية وحالة الشبكة.
+This is a NextJS starter in Firebase Studio.
 
-## الخصائص
-- تسجيل دخول آمن للمشرفين.
-- عرض خرائط تفصيلية للأبراج والنقاط.
-- نسخ احتياطي تلقائي للإعدادات.
-- دعم كامل للأجهزة اللاسلكية الحديثة.
-
-## متطلبات التشغيل
-- Node.js (للمشاريع التي تعتمد على سيرفرات محلية).
-- متصفح حديث لدعم كامل للخصائص.
-
-## كيف تبدأ
-```bash
-# تحميل المشروع
-git clone https://github.com/Homsi700/mikrotik-ubnt-dashboard.git
-
-# الدخول إلى مجلد المشروع
-cd mikrotik-ubnt-dashboard
+To get started, take a look at src/app/page.tsx.
